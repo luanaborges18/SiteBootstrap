@@ -1,0 +1,23 @@
+.bg-AzulEscuro{
+    background-color: #046;
+}
+
+.bg-Cinzaclaro{
+    background-color: #ddd;
+}
+
+.titulo{
+color: rgb(235, 91, 91);
+}
+
+.negrito{
+background-color: rgba(199, 201, 196, 0.366);
+}
+
+.botao{
+    background-color: rgb(237, 12, 12) ;
+}
+
+.letra{
+    font-weight: 700;
+}
